@@ -20,11 +20,11 @@ Full-Stack Developer focused on building **real-time, interactive web applicatio
 
 **Backend**
 - Node.js, Express
-- WebSockets (`ws`, Socket.io)
+- WebSockets (`ws`)
 
 **Database**
 - MongoDB, Mongoose
-- PostgreSQL (basic)
+- PostgreSQL, MySQL
 
 **Tools & Workflow**
 - Git, GitHub
@@ -42,7 +42,6 @@ A WebSocket-based game where players collaborate as developers to complete tasks
 
 - Real-time room and player state synchronization
 - Role-based gameplay (Crew vs Spy)
-- In-memory game engine for low-latency updates
 - Sabotage mechanics and shared progress system
 
 👉 Repository: https://github.com/saket-gupta99/the-startup-burnout
